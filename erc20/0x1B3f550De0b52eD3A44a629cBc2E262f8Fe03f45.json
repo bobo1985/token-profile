@@ -1,0 +1,12 @@
+{
+  "symbol": "HKDC",
+  "address": "0x1b3f550de0b52ed3a44a629cbc2e262f8fe03f45",
+  "overview":{
+        "zh": "HKDC是HKDEX发行的创生于区块链智能合约技术之上，开发落地应用场景流通的数字资产通证。用户申购HKDC，即获得了可以在HKDEX交易平台流通交易的加密数字权益证明。平台后续也会推荐更多优质项目，为用户提供更多可靠的数字通证交易。"
+  },
+  "website": "https://www.hkdex.io",
+  "published_on": "2019-03-01",
+  "initial_price":{
+        "HKD":"1 HKD"
+  }
+}
